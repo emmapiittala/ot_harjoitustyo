@@ -1,14 +1,26 @@
-Sovelluksen tarkoitus eli pieni tekstuaalinen yleiskuvaus sovelluksesta
 
-Käyttäjät eli tieto erilaisista käyttäjärooleista, joita järjestelmässä on
+# Vaatimuusmäärittely
 
-Tosin jos sovelluksessasi on vain yhdenlaisia käyttäjiä, ei kohtaa tarvita.
-Näin lienee tilanne monissa harjoitustöiden aiheissa kuten peleissä.
+En saa mitään pushattua, niin kirjoitan tämän määrittelyn nyt tähän. 
 
-Suunnitellut toiminnallisuudet
-Toiminnallisuudet voi kuvata ranskalaisina viivoina samaan tapaan kuin referenssiprojektissa
+###Sovelluksen tarkoitus:
 
-Referenssiprojektissa on kuvattu perusversion eli jo "kurssin alkupuolella"
- toteutettavan ydintoiminnallisuuden toiminnallisuudet tarkemmin
+Ristinolla-peli joka sopii juuri näin korona-karanteeniin. Ohjelmaa voi pelata erikokoisilla
+ruudukoilla ja suorilla.
 
-Perusversiota laajentavat jatkokehitysideat ovat omassa listassaan
+##Toiminnot:
+* Käyttäjät voivat asettaa nimimerkit itselleen
+* Ohjelma ei vaadi salasanoja
+* Peli ehdottaa uuden pelin aloittamista kun kierros on päättynyt
+
+##Vaatimukset: 
+* Peli näyttää voittajan
+* Peli toimisi useammalla käyttöjärjestelmällä. 
+* Pelin ei tarvitse toimia puhelimella
+
+###Jatkokehitysideat:
+* Top-listat
+* Pelissä voisi saada boosteja esimerkiksi. yhdellä vuorolla saakin lisätä kaksi merkkiä
+* kirjautumis mahdollisuus
+* ohjeita mihin kannattaisi seuraava siirto pistää.
+* Pelin voisi laittaa toimimaan myös puhelimiin.
