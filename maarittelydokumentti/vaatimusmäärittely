@@ -1,0 +1,25 @@
+# Vaatimuusmäärittely
+
+En saa mitään pushattua, niin kirjoitan tämän määrittelyn nyt tähän. 
+
+###Sovelluksen tarkoitus:
+
+Ristinolla-peli joka sopii juuri näin korona-karanteeniin. Ohjelmaa voi pelata erikokoisilla
+ruudukoilla ja suorilla.
+
+##Toiminnot:
+* Käyttäjät voivat asettaa nimimerkit itselleen
+* Ohjelma ei vaadi salasanoja
+* Peli ehdottaa uuden pelin aloittamista kun kierros on päättynyt
+
+##Vaatimukset: 
+* Peli näyttää voittajan
+* Peli toimisi useammalla käyttöjärjestelmällä. 
+* Pelin ei tarvitse toimia puhelimella
+
+###Jatkokehitysideat:
+* Top-listat
+* Pelissä voisi saada boosteja esimerkiksi. yhdellä vuorolla saakin lisätä kaksi merkkiä
+* kirjautumis mahdollisuus
+* ohjeita mihin kannattaisi seuraava siirto pistää.
+* Pelin voisi laittaa toimimaan myös puhelimiin.
